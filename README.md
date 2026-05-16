@@ -1,9 +1,12 @@
 <p align="center">
   <img src="https://github.com/Denuka640/asset-/blob/8cd2eca5e52d040ea252916bb149283db3c7efb0/my%20linkdin%20banner%20.jpg" />
 </p>
-
-<h1 align="center">Hi 👋 I'm Denuka Jayasundara</h1>
-
+<h1 align="center">
+  Hi 👋 I'm Denuka Jayasundara
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI-Augmented+Enterprise+Developer;ERP+%26+Business+Systems+Engineer;Software+Engineering+Undergraduate;ASP.NET+Core+%2B+React+Developer;SQL+Server+%26+Automation+Specialist;Building+Scalable+Business+Solutions+🚀" />
+</p>
 <h3 align="center">
 🚀 AI-Augmented Enterprise Developer | ERP Consultant | Software Engineering Undergraduate
 </h3>
@@ -26,10 +29,7 @@ enterprise software, ERP systems, automation platforms,
 and scalable business solutions.
 
 Unlike traditional developers who focus only on writing code,
-I combine:
-
-✨ Software Engineering  ✨ Business Understanding  ✨ Enterprise Consultation  ✨ System Architecture  ✨ AI-Assisted Development  
-✨ Productivity Optimization  
+I combine: ✨ Software Engineering  ✨ Business Understanding  ✨ Enterprise Consultation  ✨ System Architecture  ✨ AI-Assisted Development  ✨ Productivity Optimization  
 
 to build solutions that solve actual operational problems.
 
@@ -39,9 +39,9 @@ to build solutions that solve actual operational problems.
 
 What makes me different is the ability to bridge the gap between:
 
-## Business Operations
+### Business Operations
 and
-## Software Engineering
+### Software Engineering
 
 I don’t just build systems.
 
@@ -56,23 +56,23 @@ but also as a:
 
 ---
 
-# 🚀 Modern Development Philosophy
+# ⚡ Development Mindset
 
-I represent the next generation of developers who leverage:
+Modern software development is no longer just about writing code.
 
-- AI-assisted workflows
-- rapid prototyping
-- modular architectures
-- automation-first thinking
-- productivity optimization
-- enterprise-grade planning
+I believe the future belongs to developers who can combine:
+- Engineering
+- AI
+- Creativity
+- Business Strategy
+- Communication
+- Productivity
 
-to deliver faster, smarter, and more scalable solutions.
+to build smarter and faster than ever before.
 
-AI is not a replacement for engineering !
+AI is not replacing developers.
 
-It is a force multiplier, and I utilize it to maximize
-development speed, creativity, and system quality.
+Developers who leverage AI effectively will replace those who don't.
 
 ---
 
@@ -124,7 +124,7 @@ development speed, creativity, and system quality.
 ## ⚡ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite" />
+  <img src="https://skillicons.dev/icons?i=react,vite,figma" />
 </p>
 
 - Modular React Architecture
@@ -164,12 +164,23 @@ development speed, creativity, and system quality.
 
 # 📌 Featured Projects
 
-## 🔹 Legacy ERP Web Migration
-## 🔹 leave approval system integrated with ERP
-## 🔹 Restaurant Loyalty & Ticketing System
-## 🔹 HealBot Web Platform
-## 🔹 Fuel Station Integration Research
-## 🔹 Competitive Programming & Hackathons
+### 🚀 Legacy ERP Web Migration
+Migrating a legacy WinForms ERP system into a modern modular ASP.NET Core + React platform.
+
+### 🏢 Leave Approval System Integrated with ERP
+Developed workflow-based approval and employee management modules integrated into enterprise ERP architecture.
+
+### 🍽 Restaurant Loyalty & Ticketing System
+Built backend validation and SQL logic for loyalty tracking, automated discounts, and customer check-in systems.
+
+### 🤖 HealBot Web Platform
+Developed modern React interfaces including AI-powered interaction modules and polished navigation systems.
+
+### ⛽ Fuel Station Integration Research
+Researching fuel dispenser communication protocols, automation systems, and transaction handling architectures.
+
+### 🧠 Competitive Programming & Hackathons
+Participated in algorithmic competitions including IEEEXtreme as part of team SyntaxIQ.
 
 ---
 
@@ -200,6 +211,12 @@ Beyond engineering, I actively engage in:
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Denuka640&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 # 📫 Connect With Me
 
 <p align="center">
@@ -221,3 +238,7 @@ Beyond engineering, I actively engage in:
 <h2 align="center">
 ⚡ Building enterprise solutions with modern engineering + AI-enhanced productivity
 </h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Denuka640&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
