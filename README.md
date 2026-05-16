@@ -173,47 +173,11 @@ development speed, creativity, and system quality.
 # 📌 Featured Projects
 
 ## 🔹 Legacy ERP Web Migration
-Architecting and migrating a legacy Windows Forms ERP
-into a modern modular ASP.NET Core + React platform.
-
-Focused on:
-- scalability
-- modularization
-- API architecture
-- enterprise modernization
-
----
-
+## 🔹 leave approval system integrated with ERP
 ## 🔹 Restaurant Loyalty & Ticketing System
-Developed advanced SQL and backend logic for:
-- loyalty tracking
-- automated discount validation
-- customer check-in systems
-- transaction logic
-
----
-
 ## 🔹 HealBot Web Platform
-Engineered modern React modules including:
-- AI chat interfaces
-- navigation systems
-- polished UI workflows
-- volunteer interaction pages
-
----
-
 ## 🔹 Fuel Station Integration Research
-Researching:
-- dispenser communication
-- automation protocols
-- transaction systems
-- enterprise fuel management
-
----
-
 ## 🔹 Competitive Programming & Hackathons
-Participated in algorithmic competitions including
-**IEEEXtreme** as part of team **SyntaxIQ** using optimized C implementations.
 
 ---
 
