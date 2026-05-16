@@ -82,7 +82,7 @@ Developers who leverage AI effectively will replace those who don't.
 <tr>
 <td valign="top" width="50%">
 
-## 🏢 Business Systems
+## 🏢 Business Systems 
 - ERP Development
 - POS Systems
 - Inventory Management
@@ -112,16 +112,23 @@ Developers who leverage AI effectively will replace those who don't.
 ---
 
 # 🛠️ Tech Stack
-
-## 👨‍💻 Languages
+<table align: center;> 
+<tr>
+<td valign="top" width="25%"> 
+   
+## 👨‍💻 <center>Languages I Use Mostly</center>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,js,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,java" />
+  <img src="https://skillicons.dev/icons?i=js,c" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
----
+</td>
 
-## ⚡ Frontend
+<td valign="top" width="25%">
+
+## ⚡ Frontend & Design 
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,figma" />
@@ -131,8 +138,8 @@ Developers who leverage AI effectively will replace those who don't.
 - UI/UX Polishing
 - Navigation Systems
 - Syncfusion Components
-
----
+</td>
+<td valign="top" width="25%">
 
 ## 🔧 Backend & Database
 
@@ -147,7 +154,8 @@ Developers who leverage AI effectively will replace those who don't.
 - Query Optimization
 - Enterprise Data Logic
 
----
+</td>
+<td valign="top" width="25%">
 
 ## 🧪 Tools & Productivity
 
@@ -159,6 +167,9 @@ Developers who leverage AI effectively will replace those who don't.
 - Antigravity
 - AI Development Tools
 - Enterprise Workflow Optimization
+</td>
+</tr>
+</table>
 
 ---
 
