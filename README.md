@@ -21,18 +21,14 @@
 # Who Am I?
 
 I’m a Software Engineering Undergraduate at **CINEC Campus**
-with **5 years of real-world industry experience** developing
+with **real-world industry experience** developing
 enterprise software, ERP systems, automation platforms,
 and scalable business solutions.
 
 Unlike traditional developers who focus only on writing code,
 I combine:
 
-✨ Software Engineering  
-✨ Business Understanding  
-✨ Enterprise Consultation  
-✨ System Architecture  
-✨ AI-Assisted Development  
+✨ Software Engineering  ✨ Business Understanding  ✨ Enterprise Consultation  ✨ System Architecture  ✨ AI-Assisted Development  
 ✨ Productivity Optimization  
 
 to build solutions that solve actual operational problems.
@@ -45,7 +41,7 @@ What makes me different is the ability to bridge the gap between:
 
 ## Business Operations
 and
-## ⚙️ Software Engineering
+## Software Engineering
 
 I don’t just build systems.
 
@@ -56,11 +52,7 @@ and architect scalable enterprise solutions.
 This allows me to function not only as a developer,
 but also as a:
 
-- 🧩 Solution Architect
-- 📈 Business Systems Consultant
-- 🤝 Technical Communicator
-- ⚡ Productivity-Focused Engineer
-- 🚀 Modern AI-Enhanced Developer
+🧩 Solution Architect 📈 Business Systems Consultant 🤝 Technical Communicator ⚡ Productivity-Focused Engineer 🚀 Modern AI-Enhanced Developer
 
 ---
 
@@ -77,9 +69,9 @@ I represent the next generation of developers who leverage:
 
 to deliver faster, smarter, and more scalable solutions.
 
-AI is not a replacement for engineering.
+AI is not a replacement for engineering !
 
-It is a force multiplier — and I utilize it to maximize
+It is a force multiplier, and I utilize it to maximize
 development speed, creativity, and system quality.
 
 ---
