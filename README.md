@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI-Augmented+Enterprise+Developer;ERP+%26+Business+Systems+Engineer;Software+Engineering+Undergraduate;ASP.NET+Core+%2B+React+Developer;SQL+Server+%26+Automation+Specialist;Building+Scalable+Business+Solutions+🚀" />
 </p>
 <h3 align="center">
-🚀 AI-Augmented Enterprise Developer | ERP Consultant | Software Engineering Undergraduate
+AI-Augmented Enterprise Developer | ERP Consultant | Software Engineering Undergraduate
 </h3>
 
 <p align="center">
